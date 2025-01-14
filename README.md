@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Anto
 
-👨‍💻 **QA Analyst | Manual, Automatización y Performance Testing**  
+**QA Analyst | Manual, Automatización y Performance Testing**  
 🎯 **Buscando mejorar continuamente y aportar valor en la calidad de software.**
 
 ---
